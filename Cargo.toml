@@ -1,11 +1,11 @@
 [package]
 name = "psx-sem"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2021"
 authors = ["Nathan Sizemore <nathanrsizemore@gmail.com>"]
 description = "POSIX semaphores."
 readme = "README.md"
-keywords = ["posix", "shared", "memory", "ipc", "semaphore", "sem"]
+keywords = ["posix", "ipc", "semaphore", "sem", "shared"]
 license = "MPL-2.0"
 repository = "https://github.com/nathansizemore/psx-sem"
 documentation = "https://docs.rs/psx-shm/"
