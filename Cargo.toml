@@ -7,7 +7,7 @@ description = "POSIX semaphores."
 readme = "README.md"
 keywords = ["posix", "shared", "memory", "ipc", "semaphore", "sem"]
 license = "MPL-2.0"
-repository = "https://github.com/nathansizemore/psx-shm"
+repository = "https://github.com/nathansizemore/psx-sem"
 documentation = "https://docs.rs/psx-shm/"
 
 [dependencies]
